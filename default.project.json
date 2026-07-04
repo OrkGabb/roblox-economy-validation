@@ -1,0 +1,10 @@
+{
+  "name": "ACTest",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "src/Server"
+    }
+  }
+}
